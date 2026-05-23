@@ -1,7 +1,7 @@
 {
     "name": "AmitronLauncher",
     "preductname": "AmitronLauncher",
-    "version": "1.0.0",
+    "version": "99.99.99",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
